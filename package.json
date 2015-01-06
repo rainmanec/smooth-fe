@@ -1,0 +1,62 @@
+{
+  "name": "smooth-fe",
+  "version": "1.0.8",
+  "description": "Optimze CSS and JavaScript",
+  "main": "index.js",
+  "bin": {
+    "smooth": "bin/smooth"
+  },
+  "dependencies": {
+    "fs-extra": "^0.13.0",
+    "colors": "^1.0.3",
+    "iconv-lite": "^0.4.5",
+    "uglify-js": "^2.4.16",
+    "clean-css": "^3.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rainmanec/smooth.git"
+  },
+  "keywords": [
+    "Optimze",
+    "Smooth",
+    "UglifyJS2",
+    "clean-css",
+    "CSS",
+    "JavaScript",
+    "Minify"
+  ],
+  "author": {
+    "name": "Rain Man"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rainmanec/smooth/issues"
+  },
+  "homepage": "https://github.com/rainmanec/smooth",
+  "_id": "smooth-fe@1.0.8",
+  "_shasum": "ac764687f30f5b9d95b719960865ac04ba9c81bd",
+  "_from": "smooth-fe@",
+  "_npmVersion": "1.4.28",
+  "_npmUser": {
+    "name": "rainmanec",
+    "email": "rainmanec@163.com"
+  },
+  "maintainers": [
+    {
+      "name": "rainmanec",
+      "email": "rainmanec@163.com"
+    }
+  ],
+  "dist": {
+    "shasum": "ac764687f30f5b9d95b719960865ac04ba9c81bd",
+    "tarball": "http://registry.npmjs.org/smooth-fe/-/smooth-fe-1.0.8.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/smooth-fe/-/smooth-fe-1.0.8.tgz",
+  "readme": "ERROR: No README data found!"
+}
