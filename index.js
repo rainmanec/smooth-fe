@@ -18,7 +18,7 @@
 
 require('./lib/smooth');
 
-var VERSION = '1.0.8';
+var VERSION = require('./package.json')['version'];
 
 var pth = require('path'),
     util = require('./lib/util'),

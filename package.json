@@ -1,6 +1,6 @@
 {
   "name": "smooth-fe",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Optimze CSS and JavaScript",
   "main": "index.js",
   "bin": {
