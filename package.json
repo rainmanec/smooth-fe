@@ -1,46 +1,47 @@
 {
-  "name": "smooth-fe",
-  "version": "1.1.4",
-  "description": "Optimze CSS and JavaScript",
-  "main": "index.js",
+  "author": {
+    "name": "rainman"
+  },
   "bin": {
     "smooth": "bin/smooth"
   },
-  "dependencies": {
-    "fs-extra": "^0.13.0",
-    "colors": "^1.0.3",
-    "iconv-lite": "^0.4.5",
-    "uglify-js": "^2.4.16",
-    "clean-css": "^3.0.1"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/rainmanec/smooth-fe.git"
-  },
-  "keywords": [
-    "Optimze",
-    "smooth-fe",
-    "UglifyJS2",
-    "clean-css",
-    "CSS",
-    "JavaScript",
-    "Minify"
-  ],
-  "author": {
-    "name": "Rain Man"
-  },
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/rainmanec/smooth-fe/issues"
   },
+  "bundleDependencies": false,
+  "dependencies": {
+    "clean-css": "^4.2.4",
+    "colors": "^1.4.0",
+    "uglify-js": "^3.17.4",
+    "javascript-obfuscator": "^4.0.0"
+  },
+  "deprecated": false,
+  "description": "Optimze CSS and JavaScript",
+  "devDependencies": {
+    "clean-css": "^4.2.4",
+    "colors": "^1.4.0",
+    "uglify-js": "^3.17.4",
+    "javascript-obfuscator": "^4.0.0"
+  },
   "homepage": "https://github.com/rainmanec/smooth-fe",
+  "keywords": [
+    "smooth-fe"
+  ],
+  "license": "ISC",
+  "main": "index.js",
   "maintainers": [
     {
       "name": "rainmanec",
       "email": "rainmanec@163.com"
     }
-  ]
+  ],
+  "name": "smooth-fe",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rainmanec/smooth-fe.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "2.1.2"
 }
